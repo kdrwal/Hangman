@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"server","l":"CommonConstants"},{"p":"server","l":"CustomTools"},{"p":"client","l":"Hangman"},{"p":"client","l":"HangmanClient"},{"p":"server","l":"HangmanServer"},{"p":"server","l":"WordDB"}];updateSearchResults();
